@@ -247,12 +247,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
-## OUTPUT
+### OUTPUT :
 
 <img width="1133" height="959" alt="Screenshot 2025-10-25 034409" src="https://github.com/user-attachments/assets/10912fde-2285-4c4c-ac57-244f8af5760d" /></br>
 
 <img width="1144" height="912" alt="Screenshot 2025-10-25 034333" src="https://github.com/user-attachments/assets/87558119-b196-485e-8d7b-7e7e041a0e07" /></br>
 
-## Result
+### Result :
 
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified. pair) with ARM microcontroller based IOT development is executed and the results are verified.
