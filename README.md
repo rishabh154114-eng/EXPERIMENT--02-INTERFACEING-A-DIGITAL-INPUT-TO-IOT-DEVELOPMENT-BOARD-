@@ -249,9 +249,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ### OUTPUT :
 
-<img width="1133" height="959" alt="Screenshot 2025-10-25 034409" src="https://github.com/user-attachments/assets/10912fde-2285-4c4c-ac57-244f8af5760d" /></br>
-
-<img width="1144" height="912" alt="Screenshot 2025-10-25 034333" src="https://github.com/user-attachments/assets/87558119-b196-485e-8d7b-7e7e041a0e07" /></br>
+<img width="859" height="849" alt="image" src="https://github.com/user-attachments/assets/906a96cc-fb75-452b-8860-8cb1ef0d4321" /></br>
+<img width="884" height="594" alt="image" src="https://github.com/user-attachments/assets/dfbeca26-97b4-4a6e-bb16-310e49d66b40" /></br>
 
 ### Result :
 
